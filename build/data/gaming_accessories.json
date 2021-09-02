@@ -1,0 +1,584 @@
+{
+  "Data":[
+    {
+      "id":"gaming_headsets",
+      "label":"Gaming Headsets",
+      "data":[
+        {
+          "desc":"Redgear Cosmo 7.1 USB Wired Gaming Headphones with RGB LED Effect, Mic and in-line Controller for PC (Black)",
+          "brand":"Redgear",
+          "image":"./images/gaming_accessories/prod1.jpg",
+          "price":1999,
+          "ratings":6957,
+          "features":[
+            "Sound Quality: Truly immerse yourself in your games with hardware-driven virtual 7.1 surround sound for precisely located audio",
+            "Microphone: Redgear Cosmo 7.1 comes equipped with a high quality built-in noise cancelling microphone for a quick and stable communication",
+            "Build Quality: It’s luxurious noise-isolating memory foam ear pads and adjustable split headband which reduces pressure and provides optimal comfort for long gaming sessions",
+            "Noise Cancellation: Redgear Cosmo 7.1 provides you a passive noise cancelling experience. It’s closed earcups design blocks any kind of distraction from outside which helps you keep focus during the game for as long as you want",
+            "Other Features: This headset has an amazing RGB LED light effect on ear-ups and tip of the microphone. It also comes equipped with audio control which helps control volume"
+          ]
+        },
+        {
+          "desc":"Redgear Comet 7.1 USB Gaming Headphones with RGB LED Effect, Mic and in-line Controller for PC",
+          "brand":"Redgear",
+          "image":"./images/gaming_accessories/prod2.jpg",
+          "price":1999,
+          "ratings":493,
+          "features":[
+            "Sound Quality : Redgear Comet 7.1 comes equipped with 50mm Driver and 7.1 surround sound which dramatically improves your in-game sound experience.",
+            "Microphone: Noise cancellation microphone",
+            "Over the ear design comfortable design",
+            "This headset has an amazing RGB LED light effect on ear-ups and tip of the microphone.",
+            "It comes equipped with volume control, so just scroll up or down to adjust it.",
+            "1 year warranty from the date of purchase"
+          ]
+        },
+        {
+          "desc":"Razer Kraken Multi-Platform Wired Gaming Headset with Cooling Gel-Infused Cushions (Green, RZ04-02830200-R3M1)",
+          "brand":"Razer",
+          "image":"./images/gaming_accessories/prod3.jpg",
+          "price":6720,
+          "ratings":3163,
+          "features":[
+            "Enjoy superior sound clarity and deep, punchy bass for a wide soundscape. From subtle footsteps sneaking up behind you to climatic explosions that blow you away, every sound detail is heard when you’re gaming with the Razer Kraken",
+            "The headband padding and made it even thicker so it relieves more pressure on your head for long-lasting comfort. The Bauxite aluminium frame of the Razer Kraken makes it lightweight, flexible and extremely durable",
+            "The Razer Kraken’s microphone utilizes a cardioid pickup pattern so that your voice is captured with clarity without any unnecessary background noise; It rejects noise from beside and behind the mic, so your teammates will always hear you loud and clear",
+            "In order to take comfort to the next level, we’ve added cooling gel-infused ear cushions to reduce heat build-up; The soft cloth and leatherette combination provides a plush feel and sound isolation that lets you enjoy long gaming marathons",
+            "Equipped with 7.1 surround sound software so you can experience accurate positional audio when gaming—you'll be able to pick up the direction of where the action is coming from so you're ready to pounce into a gunfight"
+          ]
+        },
+        {
+          "desc":"Razer Kraken X Multi-Platform Wired Gaming Headset with Bendable Cardioid Microphone - Black - RZ04-02890100-R3M1",
+          "brand":"Razer",
+          "image":"./images/gaming_accessories/prod4.jpg",
+          "price":4548,
+          "ratings":18280,
+          "features":[
+            "Immersive, 7. 1 Surround Sound for Positional Audio: Outfitted with custom-tuned 40 mm drivers, capable of software-enabled surround sound when used for PC gaming (download code slip inside the box)",
+            "Designed for All-Day Comfort: The lightest Kraken headset ever at 250 grams, around 40% lighter than the competition",
+            "Bendable Noise Cancelling Microphone: A cardioid mic reduces background and ambient noises for crystal-clear communication",
+            "In-Headset Audio Controls: Includes an analog volume control wheel and mic mute switch on the headset for quick and convenient adjustments",
+            "Durable Construction: The Kraken X frame is flexible and built to last, able to withstand daily, care-free use"
+          ]
+        },
+        {
+          "desc":"HyperX Cloud Stinger Gaming Headset (Black)",
+          "brand":"HyperX",
+          "image":"./images/gaming_accessories/prod5.jpg",
+          "price":4690,
+          "ratings":11751,
+          "features":[
+            "Lightweight headset with 90-degree rotating ear cups",
+            "50mm directional drivers for audio precision ; Frequency response: 18Hz-23,000Hz ; Impedance: 30 Ω ; Sound pressure level: 102 ± 3dBSPL/mW at 1kHz ; Cable length and type: Headset (1.3m) + Extension Y-cable(1.7m)",
+            "Hyperx signature memory foam with adjustable steel slider",
+            "Intuitive volume control on headset ear cup",
+            "Swivel-to-mute noise-cancellation microphone with multi-platform compatibility",
+            "Works with PCs and PS4s"
+          ]
+        },
+        {
+          "desc":"Corsair HS35 Stereo Gaming Headset - Headphones Designed for PC and Mobile – Carbon",
+          "brand":"Corsair",
+          "image":"./images/gaming_accessories/prod6.jpg",
+          "price":3999,
+          "ratings":735,
+          "features":[
+            "Multi-platform compatible with PC, Xbox One, PS4, Nintendo Switch and mobile devices",
+            "A pair of custom-tuned 50mm neodymium speaker drivers deliver excellent sound quality with wide range and reliable accuracy",
+            "A fully detachable unidirectional microphone is optimized for voice quality while reducing ambient noise, so that you’re heard loud and clear",
+            "Plush memory foam with adjustable earcups, combined with lightweight construction, provide the comfort you need for hours of gameplay",
+            "On-ear volume and mute controls let you adjust on-the-fly without pulling you away from the game",
+            "Discord-certified for crystal-clear communication and outstanding sound"
+          ]
+        },
+        {
+          "desc":"Ant Esports H520W World of Warships Edition Wired Gaming Headset for PC / PS4 / Xbox One/Nintendo Switch/Computer and Mobile - Black",
+          "brand":"Ant Esports",
+          "image":"./images/gaming_accessories/prod7.jpg",
+          "price":963,
+          "ratings":4023,
+          "features":[
+            "Immersive Gaming Audio. Ant Esports H520W are engineered to produce detailed, balanced soundscape with ultra-low distortion for your games, music, movies, and more.",
+            "Top Mic : Ant Esports renowned high sensitivity mic picks up your voice loud and clear and flips up to mute",
+            "Surround Sound Ready: Optimized for Windows Sonic; Windows Sonic by Microsoft for Xbox One and compatible Windows 10 PCs; PS4, Mobile",
+            "High Quality 40MM Speakers: Superior 40 millimetre over ear speakers produce crisp highs and thundering lows",
+            "Multiplatform Compatibility : Designed for PC and works great with Xbox One, PlayStation 4, Nintendo Switch, PC, and mobile devices"
+          ]
+        },
+        {
+          "desc":"XPG EMIX H20 Wired Virtual 7.1 Surround Sound 50mm Drivers RGB Gaming Headset with Adjustable Microphone",
+          "brand":"XPG",
+          "image":"./images/gaming_accessories/prod8.jpg",
+          "price":2999,
+          "ratings":18,
+          "features":[
+            "Positional Accuracy with Virtual 7.1 Surround Sound",
+            "50mm Drivers RGB Gaming Headset With Adjustable Microphone",
+            "Get in the Mood for Battle with RGB Multicolor lighting effect",
+            "Adjustable Microphone with sound pressure 106DB",
+            "Two years warranty with Braided cable with high quality USB Connector."
+          ]
+        },
+        {
+          "desc":"XPG Precog Gaming Headset with Virtual 7.1 Surround Sound Dual Drivers and Detachable Microphone",
+          "brand":"XPG",
+          "image":"./images/gaming_accessories/prod9.jpg",
+          "price":9799,
+          "ratings":18100,
+          "features":[
+            "High-fidelity DUAL DRIVERS - DYNAMIC and ELECTROSTATIC DRIVERS for Enhanced Audio Experience. Includes USB Type-C control box and 3. 5mm control box.",
+            "ERGONOMIC Ear Cups and Memory Foam Cushions for maximum comfort. Detachable MIC with ENC - ENVIRONMENTAL NOISE CANCELLATION function for clear sound quality",
+            "XPG Gaming Headset has a cool appearance design, special lighting effect-Red LED, USB type C / 3. 5mm Audio Modes : FPS / Virtual 7. 1, Headset Sensitibity: 1023dB/mW@1KHz, Mic Directivity: Unidirectional Mic Frequency Response: 20Hz – 20, 000 Hz Mic Sensitivity: -38db1. 5db : Limited 2 Years Manufacturer",
+            "Packing in the box content:Carrying case, Type-C wired controller w/DSP sound card, 3.5mm In-line wired controller, Type A to C cable, Y-cable splitter",
+            "Self Adjustable plus electrostatic driver delivering audio experience.",
+            "Builit-in FPS Mode for players who likes to take full control in every environment.",
+            "Virtual 7.1 Surround Sound: Take a little time off and enjoy your favorite movie with our Virtual 7.1 Surround Sound."
+          ]
+        },
+        {
+          "desc":"Ant Esports H707 HD RGB Wired Gaming Headset | Noise Cancelling Over-Ear Headphones with Mic for PC / PS4 / Xbox One/Nintendo Switch/Mac",
+          "brand":"Ant Esports",
+          "image":"./images/gaming_accessories/prod10.jpg",
+          "price":1593,
+          "ratings":4023,
+          "features":[
+            "Multi-platform compatible - supports PC, PS4, PS4 Pro/Slim, Xbox one, Xbox One S/X, Nintendo Switch/3DS, PSP, Mac, IOS/Android device, Laptop, PC (Win7/8/10), iPad or Mobile that have 3.5mm jack etc",
+            "High-grade 50mm magnetic neodymium driver delivers clear stereo bass sound, acoustic positioning precision enhance the sensitivity of the speaker unit, you can feel the real sound",
+            "Adjustable noise-cancellation microphone- Ant Esports H707 PC Gaming headset are omnidirectional adjustable and flexible to pick up voice in 360 degree",
+            "Lightweight and comfortable designed - At just 300 grams, the ideal headphones for gamers looking for lightweight comfort, the 4th generation Lightweight metal supports the entire body",
+            "Please note you need an extra Microsoft Adapter (Not Included) when connect with an old version Xbox One controller"
+          ]
+        }
+      ]
+    },
+    {
+      "id":"gaming_keyboards",
+      "label":"Gaming Keyboards",
+      "data":[
+        {
+          "desc":"CORSAIR K70 RGB MK.2 RAPIDFIRE Mechanical Gaming Keyboard - Cherry MX Speed - RGB LED Backlit",
+          "brand":"Corsair",
+          "image":"./images/gaming_accessories/prod11.jpg",
+          "price":14899,
+          "ratings":7440,
+          "features":[
+            "Aircraft-grade anodized brushed aluminum frame, built to withstand a lifetime of gaming",
+            "8MB profile storage with hardware macro and lighting playback allow access to up to three stored profiles on the go, independent of external software",
+            "Per-key dynamic multi-color RGB backlighting offers near unlimited color customization and control",
+            "Get the RAPIDFIRE advantage - CHERRY MX Speed mechanical key switches provide the reliability and accuracy you demand, with blistering fast 1.2mm actuation",
+            "USB pass-through port provides convenient access to an additional USB port for your mouse or headset",
+            "CORSAIR iCUE software enables vivid dynamic lighting control, sophisticated macro programming and full-system lighting synchronization across compatible CORSAIR peripherals, coolers, fans and more"
+          ]
+        },
+        {
+          "desc":"HyperX Alloy HX-KB5ME2-US Core RGB Membrane Gaming Keyboard (Black)",
+          "brand":"HyperX",
+          "image":"./images/gaming_accessories/prod12.jpg",
+          "price":4790,
+          "ratings":5500,
+          "features":[
+            "Signature light Bar and dynamic RGB lighting effects",
+            "5 Zones multi-color customization option",
+            "Quiet and responsive keys with anti-ghosting",
+            "Durable solid frame with spill resistance"
+          ]
+        },
+        {
+          "desc":"Redragon K551 Rainbow LED Backlit Mechanical Gaming Keyboard with Numlock Keys for Windows PC (Red Switches)",
+          "brand":"Redragon",
+          "image":"./images/gaming_accessories/prod13.jpg",
+          "price":3720,
+          "ratings":5529,
+          "features":[
+            "Mechanical Gaming keyboard Redragon K551 104 Keys with Dust Proof Mechanical Switches Cherry MX Red equivalent Linear switches quiet click sound fast action with minimal resistance without a tactile bump feel",
+            "Rainbow LED backlit mechanical USB gaming keyboard 19 different lighting effects and game modes 2 user defined modes 6 colors multiple brightness level breathing speed precision engineered keycaps offering crystal clear uniform backlighting",
+            "Ergonomic designed steel series mechanical game keyboards high-quality durable metal-abs construction with plate-mounted mechanical keys and switches that stand up even during the most testing marathon gaming sessions",
+            "Anti ghosting all 87 keys are conflict free nkey rollover featuring 12 multimedia keyboard keys and a non-slip ergonomic, splash-proof design comes with gold-plated high-speed corrosion free USB connector for a reliable connection",
+            "Compatible with windows 10, windows 8, windows 7, windows vista, or windows xp, limited mac os keyboard support works well with all major computers brands and gaming pcs."
+          ]
+        },
+        {
+          "desc":"CORSAIR K70 MK.2 Mechanical Gaming Keyboard-Cherry MX Silent-RGB LED Backlit (Black)",
+          "brand":"Corsair",
+          "image":"./images/gaming_accessories/prod14.jpg",
+          "price":14899,
+          "ratings":4101,
+          "features":[
+            "Aircraft-grade anodized brushed aluminium frame, built to withstand a lifetime of gaming",
+            "8mb profile storage with hardware macro and lighting playback allow access to up to three stored profiles on the go, independent of external software",
+            "Per-key dynamic multi-colour rgb backlighting offers near unlimited colour customization and control",
+            "Cherry mx silent mechanical key switches provide the reliability and accuracy you demand, with up to 30 percent less noise",
+            "Usb pass-through port provides convenient access to an additional usb port for your mouse or headset",
+            "Corsair icue software enables vivid dynamic lighting control, sophisticated macro programming and full-system lighting synchronization across compatible corsair peripherals, coolers, fans and more"
+          ]
+        },
+        {
+          "desc":"SteelSeries Apex 3 RGB Gaming Keyboard – 10-Zone RGB Illumination – IP32 Water Resistant – Premium Magnetic Wrist Rest (Whisper Quiet Gaming Switch)",
+          "brand":"SteelSeries",
+          "image":"./images/gaming_accessories/prod15.jpg",
+          "price":8999,
+          "ratings":5501,
+          "features":[
+            "Rated IP32 water resistant to prevent accidental damage from liquid spills",
+            "10-zone RGB illumination for gorgeous color schemes and reactive effects",
+            "Low-friction whisper quiet gaming switches for near silent use and unmatched 20 million keypress durability",
+            "Premium magnetic wrist rest provides full palm support and comfort",
+            "Dedicated multimedia controls for adjusting volume and settings on the fly"
+          ]
+        },
+        {
+          "desc":"Redragon Kumara K552 Rainbow LED Backlit TKL Tenkeyless Mechanical Gaming Keyboard Without Numlock Keys (Rainbow LED)",
+          "brand":"Redragon",
+          "image":"./images/gaming_accessories/prod16.jpg",
+          "price":3049,
+          "ratings":22058,
+          "features":[
+            "Tenkeyless compact mechanical gaming keyboard Redragon k552 tkl small compact with dust proof mechanical switches cherry mx red equivalent Linear switches quiet click sound fast action with minimal resistance without a tactile bump feel",
+            "Rainbow LED RGB backlit mechanical USB gaming keyboard 19 different lighting effects and game modes 2 user defined modes 6 colors multiple brightness level breathing speed precision engineered keycaps offering crystal clear uniform backlighting",
+            "Ergonomic designed steel series mechanical game keyboards high-quality durable metal-abs construction with plate-mounted mechanical keys and switches that stand up even during the most testing marathon gaming sessions",
+            "Anti ghosting all 87 keys are conflict free nkey rollover featuring 12 multimedia keyboard keys and a non-slip ergonomic, splash-proof design comes with gold-plated high-speed corrosion free USB connector for a reliable connection",
+            "Compatible with windows 10, windows 8, windows 7, windows vista, or windows xp, limited mac os keyboard support works well with all major computers brands and gaming pcs."
+          ]
+        },
+        {
+          "desc":"Razer Huntsman Tournament Edition TKL Tenkeyless Gaming Keyboard: Fastest Keyboard Switches Ever - Linear Optical Switches - Chroma RGB Lighting - PBT Keycaps - Onboard Memory - Classic Black",
+          "brand":"Razer",
+          "image":"./images/gaming_accessories/prod17.jpg",
+          "price":21999,
+          "ratings":3426,
+          "features":[
+            "Tournament-Ready Design: A tenkeyless design with a detachable USB-C cable provides a portable form-factor for on-the-go gamers",
+            "Gaming Peripherals Manufacturer in the US: Source - The NPD Group, Inc., U.S. Retail Tracking Service, Gaming Designed: Keyboards, Mice, PC Headsets, and PC Microphones, Based on dollar sales, Jan. 2017- June 2020 combined",
+            "Faster Than Traditional Mechanical Switches: Razer Linear Optical switch technology uses optical beam-based actuation, registering key presses at the speed of light (15-30% shorter actuation distance than other linear switches at 1.0 millimeter)",
+            "Ultimate Personalization & Gaming Immersion with Razer Chroma: Fully syncs with popular games, Razer hardware, Philips Hue, and gear from 30+ partners; supports 16.8 million colors on individually backlit keys",
+            "Quality, Aluminum Construction: Covered with a matte, aluminum top frame for increased structural integrity"
+          ]
+        },
+        {
+          "desc":"Razer Ornata V2 Gaming Keyboard: Hybrid Mechanical Key Switches - Customizable Chroma RGB Lighting - Individually Backlit Keys - Detachable Plush Wrist Rest - Programmable Macros",
+          "brand":"Razer",
+          "image":"./images/gaming_accessories/prod18.jpg",
+          "price":16999,
+          "ratings":7562,
+          "features":[
+            "The #1 Best-Selling Gaming Peripherals Manufacturer in the US: Source - The NPD Group, Inc. U.S. Retail Tracking Service, Keyboards, Mice, PC Headset/Pc Microphone, Gaming Designed, based on dollar sales, Jan. 2017- Dec. 2019",
+            "High-Performance Mecha-Membrane Switches: Provides the tactile feedback of mechanical key press on a comfortable, soft-cushioned, membrane, rubber dome switch suitable for gaming",
+            "Ultimate Personalization & Gaming Immersion with Razer Chroma: Fully syncs with popular games, Razer hardware, Philips Hue, and gear from 30+ partners; supports 16.8 million colors on individually backlit keys",
+            "Fully Programmable Macro Support: Razer Hypershift allows for all keys and keypress combinations to be remapped to execute complex commands",
+            "Ergonomic, Magnetic Wrist Rest: Made of soft-touch leatherette to maximize comfort over extended gaming sessions, with built-in magnets for convenient alignment",
+            "Built-in Physical Media Keys and Digital Dial: Fully configurable for pause, play, volume, and even brightness adjustment",
+            "Durable Construction: Supports up to 80 million clicks, backed by a 2-year warranty"
+          ]
+        },
+        {
+          "desc":"Lenovo K200 KB-USWW GX30P93887 Keyboard (Black)",
+          "brand":"Lenovo",
+          "image":"./images/gaming_accessories/prod19.jpg",
+          "price":2799,
+          "ratings":4396,
+          "features":[
+            "Play without breaking your bank - affordable gaming keyboard for beginner or casual PC gamers",
+            "Level-up your game - enrich your game with three options of backlight and 12 anti-ghosting keys",
+            "Intuitive and easy to set-up - enjoy a full gaming keyboard experience with intuitive functionality requiring no complicated specialized software"
+          ]
+        },
+        {
+          "desc":"Cosmic Byte CB-GK-03 Black Eye Wired Aluminium Mechanical Keyboard, Real RBG Backlit with Effects (Black)",
+          "brand":"Cosmic Byte",
+          "image":"./images/gaming_accessories/prod20.jpg",
+          "price":3749,
+          "ratings":930,
+          "features":[
+            "Real RGB backlit- 13 backlight effects 3 level brightness adjustment, 4 level of backlight speed adjustment",
+            "Blue switches with click sound, it provides great tactile feel, sensitive and responsive.",
+            "8 Multimedia Keys for faster access to key functions",
+            "Wide compatibility with Win XP, Win 2000, Win ME, Vista, Win 7, 8, 10 above, Android, Linux, iOS",
+            "Full size 104 keys mechanical keyboard with braided cable"
+          ]
+        },
+        {
+          "desc":"Cosmic Byte CB-Gk-15 Triton Gaming Keyboard, Per Key RGB, 6 Macro Keys, Software (Black)",
+          "brand":"Cosmic Byte",
+          "image":"./images/gaming_accessories/prod21.jpg",
+          "price":1399,
+          "ratings":1983,
+          "features":[
+            "Full RGB with Software to control LED lights, Assign Macros to the 6 gaming keys",
+            "Backlight: 7 color rgb backlit, 8 levels of brightness adjustment, 8 backlight effects",
+            "Anti-ghosting: 26 anti-ghosting keys",
+            "Scratch resistant keys: Easy to clean keys with scratch - resistant inscriptions",
+            "Key life: Up to 10 million keystrokes"
+          ]
+        },
+        {
+          "desc":"Cosmic Byte Dark Matter Gaming Keyboard and Mouse Combo, 3 Color LED Backlight, Upto 2400 DPI 5 Button LED Mouse (Black)",
+          "brand":"Cosmic Byte",
+          "image":"./images/gaming_accessories/prod22.jpg",
+          "price":1353,
+          "ratings":1005,
+          "features":[
+            "Ergonomic gaming design, backlit keyboard and keys",
+            "Four dpi transmission up to 2400dpi for mouse, quiet and precise keystroke.",
+            "High-quality membrane for keyboard, 19 keys anti-ghost"
+          ]
+        }
+      ]
+    },
+    {
+      "id":"gaming_mice",
+      "label":"Gaming Mice",
+      "data":[
+        {
+          "desc":"Logitech G102 Light Sync Gaming Mouse with Customizable RGB Lighting, 6 Programmable Buttons, Gaming Grade Sensor, 8 k dpi Tracking,16.8mn Color, Light Weight (White)",
+          "brand":"Logitech",
+          "image":"./images/gaming_accessories/prod23.jpg",
+          "price":1545,
+          "ratings":3806,
+          "features":[
+            "8,000 DPI sensor – The gaming-grade sensor responds precisely to your movements",
+            "Colourful LIGHTSYNC RGB – Play in colour with our most vibrant LIGHTSYNC RGB featuring colour wave effects that are customisable across 16.8 million colours",
+            "Classic, gamer-tested design – Play comfortably and with total control. The simple 6-button layout and classic gaming shape form a comfortable, time-tested and loved design",
+            "Mechanical spring button tensioning – Primary buttons are mechanical and tensioned with durable metal springs for reliability, performance and an excellent feel",
+            "Customise the settings to suit the sensitivity you like with Logitech G HUB gaming software and cycle easily through up to 5 DPI settings"
+          ]
+        },
+        {
+          "desc":"Click to open expanded view Redgear A-15 Wired Gaming Mouse with RGB, Semi-Honeycomb Design and Upto 6400 dpi for Windows PC Gamers.",
+          "brand":"Regear",
+          "image":"./images/gaming_accessories/prod24.jpg",
+          "price":449,
+          "ratings":3692,
+          "features":[
+            "Compatibility: Redgear A15 is compatible with PCs, laptops, notebooks and other devices with a similar input.",
+            "Multi Programmable Buttons: The Redgear A15 is designed with multi programmable buttons and also has durable and semi honeycomb design for a better grip.",
+            "Upto 6400 DPI: With Redgear A15 you can experience a DPI change of upto 6400",
+            "RGB Lighting: A15 comes equipped with customizable RGB mode",
+            "Other Features: It comes with a gaming grade sensor for quick movements and reflexes. It also has extra durable switches and enhanced build quality to increase the durability of the mouse."
+          ]
+        },
+        {
+          "desc":"Zebronics Zeb-Transformer-M Optical USB Gaming Mouse with LED Effect(Black)",
+          "brand":"Zebronics",
+          "image":"./images/gaming_accessories/prod25.jpg",
+          "price":369,
+          "ratings":20917,
+          "features":[
+            "Zeb-Transformer-M is a Optical USB Gaming Mouse with 7 Colors LED Effect",
+            "It has Compact & Ergonomic Design. Cable type : Braided cable",
+            "It has High Quality Button,High Precision and Gold Plated USB",
+            "It includes Dedicated buttons for DPI,Forward and Backward",
+            "Interface : USB",
+            "Sensor : Optical",
+            "Power Consumption : DC 5V,<100mA"
+          ]
+        },
+        {
+          "desc":"Razer DeathAdder Essential - Right-Handed Wired Gaming Mouse with 6,400 DPI Optical Sensor - RZ01-02540100-R3M1",
+          "brand":"Razer",
+          "image":"./images/gaming_accessories/prod26.jpg",
+          "price":3299,
+          "ratings":2734,
+          "features":[
+            "Proven history of performance",
+            "True 6,400 dpi optical sensor for fast and precise swipes",
+            "Classic ergonomic form factor",
+            "Distinctive shape designed for extended hours of gaming",
+            "Multi-award winning technology",
+            "5 hype response buttons durable up to 10 million clicks"
+          ]
+        },
+        {
+          "desc":"Redgear A-17 Gaming Mouse(Black)",
+          "brand":"Redgear",
+          "image":"./images/gaming_accessories/prod27.jpg",
+          "price":599,
+          "ratings":11,
+          "features":[
+            "Upto 6400 DPI: With Redgear A17 you can experience a DPI change of upto 6400",
+            "RGB Lighting: A17 comes equipped with customizable RGB mode",
+            "5M durable switches and enhanced build quality with Braided Cable to increase the durability of the mouse.",
+            "Suitable for Claw & Palm grip",
+            "Compatibility: Redgear A-17 is compatible with PCs, laptops, notebooks and other devices with a similar input.",
+            "1 year warranty from the date of purchase."
+          ]
+        },
+        {
+          "desc":"Lenovo Legion M200 RGB Gaming Wired USB Mouse GX30P93886, Ambidextrous, 5-buttons, upto 2400 DPI with 4 levels DPI switch, 7-colour RGB backlight, 500fps frame rate, upto 30 inches per second movement speed",
+          "brand":"Lenovo",
+          "image":"./images/gaming_accessories/prod28.jpg",
+          "price":1099,
+          "ratings":1958,
+          "features":[
+            "The Lenovo legion M200 RGB gaming mouse is designed for the beginners and amateur PC gamers",
+            "Ambidextrous comfortable design, it is affordable in price but uncompromised in functionality and performance,",
+            "Legion M200 features a 5-button design, up to 2400 DPI with 4 levels DPI switch. Adjust DPI on the fly",
+            "7-color circulating-backlight for the look and feel with the comfort & strength of a braided cable",
+            "It is easy-to-use and set-up without any extra complicated software"
+          ]
+        },
+        {
+          "desc":"ZEBRONICS Zeb-Clash - Premium USB Gaming Mouse with 6 Buttons, High Resolution Gaming Sensor 3600 DPI, Mulitcolor LED",
+          "brand":"Zebronics",
+          "image":"./images/gaming_accessories/prod29.jpg",
+          "price":499,
+          "ratings":359,
+          "features":[
+            "Comes with Ergonomic Design",
+            "6 buttons including dedicated buttons for backward, forward along with a DPI switch.",
+            "Multicolored breathing LED",
+            "High-resolution gaming-grade sensor mouse. It has up to 800/ 1600/ 2400/ 3600 DPI.",
+            "Dedicated buttons for DPI, Forward & Backward. Works on most surfaces"
+          ]
+        },
+        {
+          "desc":"Redgear A-10 Wired Gaming Mouse with LED, Lightweight, Durable and DPI Upto 2400 for Windows PC Gamers.",
+          "brand":"Redgear",
+          "image":"./images/gaming_accessories/prod30.jpg",
+          "price":319,
+          "ratings":1422,
+          "features":[
+            "Lightweight Gaming mouse for quick moves during your gaming sessions",
+            "On the Fly Dpi Change upto 2400",
+            "Extra Durable switches and build quality to increase the durability of the mouse",
+            "Designed for All types of Grips and All types of Games"
+          ]
+        }
+      ]
+    },
+    {
+      "id":"gaming_chairs",
+      "label":"Gaming Chairs",
+      "data":[
+        {
+          "desc":"Pulse Gaming Racing Edition GT-09 Ergonomic Gaming Chair (Black+Red) Ergonomic Series",
+          "brand":"Pulse Gaming",
+          "image":"./images/gaming_accessories/prod31.jpg",
+          "price":15999,
+          "ratings":379,
+          "features":[
+            "[New design]-Pulse Gaming Chair features a car-seat style design, which include thigh support side bolsters, along with waist and shoulder pads that resemble a racing seat.",
+            "[Highly Adjustable]: Removable headrest and massage lumbar pillow, adjustable armrest,backrest angle,height,pull out the level and rotate knob to use rocking gaming chair function,everything is adjustable.Good choice for PC computer gaming chair.",
+            "[Sturdy & Comfort]: Our Ergonomic Chairs are designed in great construction with a heavy-duty metal base and frame to last long.",
+            "[Material For Security]: Office chair's 4-level cylinder certified by SGS; Durable PU leather padded with high density shaping sponge, comfortable, skin friendly and wear-resisting; 2mm thick steel frame, more sturdy and stable; Rubber casters that tested by 1000 miles rolling."
+          ]
+        },
+        {
+          "desc":"MRC EXECUTIVE CHAIRS ALWAYS INSPIRING MORE Predator Gaming Chair Racing Style Ergonomic Premium High Back Revolving Computer Chair/Student Chair (Black & White)",
+          "brand":"MRC EXECUTIVE CHAIRS",
+          "image":"./images/gaming_accessories/prod32.jpg",
+          "price":14499,
+          "ratings":153,
+          "features":[
+            "Predator Series for that Ultimate Gaming Experience",
+            "Installation: DIY (Don't worry we've got your back - You will get a complete manual of installation along with the chair)",
+            "Gives you that perfect feel of a Racing Style Seat for that incredible gaming experience",
+            "Various adjustable features like Headrest, Armrest, Tilting Position providing that sense of perfect sitting posture",
+            "Internal frame material: Metal | Upholstery cover: Fabric & PU Leather"
+          ]
+        },
+        {
+          "desc":"ASE Gold Series PU Leather Gaming Chair & Ergonomic Chair with Black Metal Base (Grey, Antique)",
+          "brand":"A S ENTERPRISES",
+          "image":"./images/gaming_accessories/prod33.jpg",
+          "price":12899,
+          "ratings":125,
+          "features":[
+            "HIGH-DENSITY MOLDED P.U FOAM PUTS IT WELL ABOVE THE STANDARD HIGH RESILIENCY FOAM",
+            "ADDITIONAL SUPPORT WITH THE MEMORY FOAM PILLOW.ULTRA SOFT AND CURVY SHAPE.",
+            "REST YOUR FOREARMS ON THE TWO DIRECTIONAL ARMREST. YOU CANADJUST THE HEIGHT UP AND DOWN. THIS MAKES ACHIVING OPTIMAL ERGONOMICS IN LINE WITH YOUR INDIVIDUAL DESK REMARKABLY EASY.",
+            "NAP EXTRA COMFORTABLY WITH THE ADJUSTABLE 175 DEGREE RECLINING.WHETHER YOU ARE GAMING, WORKING OR TACKING A NAP",
+            "ERGONOMICALLY SHAPED TO MATCHED HUMAN SPINE.ERGONOMIC BACK SHAPE PROVIDES NECESSARY SUPPORT WHICH INCREASES MAXIMUM COMFORT EVEN FOR LONG SEATING.",
+            "Head Support",
+            "Cushion Availability",
+            "Swivel"
+          ]
+        },
+        {
+          "desc":"Massage Gaming Chair with Foot Rest & Computer Chair -Red Adjustable PU Leather & Ergonomic Chair with Lumbar Support, Reclining, Easy Assemble, Comfort Gaming Chair That Support Upto 150 kgs",
+          "brand":"Greysteel",
+          "image":"./images/gaming_accessories/prod34.jpg",
+          "price":18900,
+          "ratings":1131,
+          "features":[
+            "ERGONOMIC DESIGN: Greysteel Gaming Chair is designed for a comfortable seated position and is equipped with Adjustable armrest and USB cable power supply massager that can be drive by a USB port on computer, car, power switch or even power bank. It is the best masseur for users who need to sit for a long time on a chair. Vintage leather style matches all locations and enhances the beauty of your setup.",
+            "MULTI FUNCTION: Greysteel Gaming Chair has 360° swivel and smooth racing caster wheels for mobility; 90°-180° reclining for working, gaming, reading or napping; 20° controllable rocking and retractable footrest for relaxing. It has an adjustable seat height, 350 lbs capacity; head pillow and lumbar pillow for all body shapes.",
+            "FOR BOTH GAMER AND OFFICE WORKER: Winged back provides multi-point body contact to share the pressure, save your spine and lumbar with ergonomic back and massage support. Lean your legs more comfortable with bucket seat design, the side wings frame has been thinned and contains more soft filling.",
+            "STURDY CONSTRUCTION & ECO-FRIENDLY MATERIAL: Alloy frame covered in quality hand sewing PU leather and 10 inches high density foam for comfy. Upgraded LANT gas cylinder and mechanism ensure the use age of the chair.",
+            "INSTALLATION AND BRAND CONCEPT: We take the construction of every chair seriously. Strict inspection has been carried out from product design to factory testing. We hope every customer can get the perfect product, so we will always work hard to make you satisfied. Detail instruction manual included in the package. 24/7 customer services team all for shopping experience."
+          ]
+        },
+        {
+          "desc":"NUBZONE RCX7-SNOW Gaming Chair White Color",
+          "brand":"NUBZONE",
+          "image":"./images/gaming_accessories/prod35.jpg",
+          "price":16999,
+          "ratings":229,
+          "features":[
+            "Unparalleled Comfort: NUBZONE RCX7 brings you the comfort you need to thoroughly enjoy long gaming sessions. Fully adjustable and made of first quality materials, this gaming chair also features the unique NUBZONE design that has become a sign of the passion for gaming.",
+            "Adjustable Design: RCX7 will adapt itself to your needs in every moment through five adjustment options.",
+            "4D Adjustable armrest: Ready to suit your needs, RCX7’s armrests allow you to adjust them in four different ways, three dimensions and eight directions: 1. Backwards/Forwards Adjustment comfortable resting of elbow, forearm and arm. 2. Left/Right Turning Ideal for keeping the armrests available, no matter which position you adopt. 3. Height Adjustment Moving the armrest up or down will help you to find the most suitable position to enjoy games. 4. Left/Right Adjustment.",
+            "Quality and Safety: RCX7's bones are made up of steel, not only guaranteeing long-term durability but also providing strong support for your body."
+          ]
+        },
+        {
+          "desc":"Massage Gaming Chair with Foot Rest & Computer Chair - Black Adjustable PU Leather & Ergonomic Chair with Lumbar Support, Reclining, Easy Assemble, Comfort Gaming Chair That Support Upto 150 kgs",
+          "brand":"Greysteel",
+          "image":"./images/gaming_accessories/prod36.jpg",
+          "price":19900,
+          "ratings":313,
+          "features":[
+            "ERGONOMIC DESIGN: Greysteel Gaming Chair is designed for a comfortable seated position and is equipped with Adjustable armrest and USB cable power supply massager that can be drive by a USB port on computer, car, power switch or even power bank. It is the best masseur for users who need to sit for a long time on a chair. Vintage leather style matches all locations and enhances the beauty of your setup.",
+            "MULTI FUNCTION: Greysteel Gaming Chair has 360° swivel and smooth racing caster wheels for mobility; 90°-180° reclining for working, gaming, reading or napping; 20° controllable rocking and retractable footrest for relaxing. It has an adjustable seat height, 350 lbs capacity; head pillow and lumbar pillow for all body shapes.",
+            "For both Gamer and Worker: Winged back provides multi-point body contact to share the pressure, save your spine and lumbar with ergonomic back and massage support. Lean your legs more comfortable with bucket seat design, the side wings frame has been thinned and contains more soft filling.",
+            "STURDY CONSTRUCTION & ECO-FRIENDLY MATERIAL: Alloy frame covered in quality hand sewing PU leather and 10 inches high density foam for comfy. Upgraded LANT gas cylinder and mechanism ensure the use age of the chair.",
+            "Installation and Brand Concept: We take the construction of every chair seriously. Strict inspection has been carried out from product design to factory testing. We hope every customer can get the perfect product, so we will always work hard to make you satisfied. Detail instruction manual included in the package. 24/7 customer services team all for shopping experience."
+          ]
+        },
+        {
+          "desc":"CHIPTRONEX GMX2000 RGB Gaming Chair Racing Ergonomic PC Chair with Remote Controller 90-180 Degree tilt Adjust, Class 4 Gas Lift with Adjustable Armrest",
+          "brand":"CHIPTRONEX",
+          "image":"./images/gaming_accessories/prod37.jpg",
+          "price":19999,
+          "ratings":119,
+          "features":[
+            "Perfect for Gaming: Chiptronex GMX2000 RGB gaming chair is built for pro gamers. Designed to improve your Gaming Performance and it has different RGB color modes",
+            "RGB LIGHTING: Gaming chair with super cool LED lighting. There are lots of lighting models, you can choose your favorite light colors and models with given RGB remote controller",
+            "Adjustable Functions: GMX2000 RGB Gaming Chair is specially designed to be locked at any angle between 90-180 degree in order to provide a comfortable and relaxing experience when working or gaming. It also has10 cm Class 4 gas lift, durable, reliable and supports up to 100 kg.",
+            "Ergonomic Design: Gaming Chair is made of high durable PU leather with removable headrest and lumbar support. Strong metal frame. It has a high backrest which ensures proper alignment and support for your back and neck keeping you comfy",
+            "Wheels: 360 degree swivel rotation with top quality mute rolling wheels avoid scratching on floor and move smoothly and quietly",
+            "Quick Installation: We provided detailed and easy-to-understand installation instructions and presented the necessary installation tools.",
+            "Butterfly mechanism with locking and tilt function"
+          ]
+        },
+        {
+          "desc":"CarbonXpro The Grinder Series Gaming Chair - Black (4D Armrest)",
+          "brand":"CarbonXpro",
+          "image":"./images/gaming_accessories/prod38.jpg",
+          "price":16990,
+          "ratings":124,
+          "features":[
+            "GAMING, PLAYING AND RELAXING: Extra higher backrest to save neck and spinal, straight for great head support, flexible seat back gaming chair with optimal comfort.",
+            "ERGONOMIC DESIGN: Latest design with more efficient and comfortable, perfect for Casino, Gaming etc",
+            "DESIGNED WITH QUALITY IN MIND: High density mould shaping foam padding in backrest and seat, Polyurethane Leather cover, 5-star Nylon Base.",
+            "HIGH-SECURITY: Integrated metal frame, heavy duty chair base with castors make a superb stable structure."
+          ]
+        },
+        {
+          "desc":"Casa Copenhagen ESPP52 Collection - Gaming Chair with Ergonomic Lumbar Pillow Support Italian leather Reclining High Back Home & Office Chair with Armrest, Adjustable Height Seat and 360 Swivel - Grey Black",
+          "brand":"Casa Copenhagen",
+          "image":"./images/gaming_accessories/prod39.jpg",
+          "price":25500,
+          "ratings":601,
+          "features":[
+            "The Casa Copenhagen Gaming Office Executive Chair Ergonomic design with more efficiently and comfortably, multi function meet all kinds of body shape.",
+            "High quality and exquisite workmanship, so it has a long service time. this chair can also be adjusted into a lying mode, you can get a good relaxation in the leisure of your work.",
+            "Casa Copenhagen chair is dedicated to make the best gaming chair with large seat area for pro gamers.",
+            "Tilt Locking mechanism. Height-adjustable mechanism. Easy to move caster wheels. Load capacity of up to 120kg.",
+            "No matter your preference, you're sure to find the most comfortable position for you.",
+            "With the ability to recline, rotate and control the height of your seat you can find the most comfortable seating position for you."
+          ]
+        }
+      ]
+    }
+  ]
+}

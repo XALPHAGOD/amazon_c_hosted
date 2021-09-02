@@ -1,0 +1,311 @@
+{
+    "mobileData":[
+      {
+        "desc":"OnePlus Nord 2 5G (Blue Haze, 8GB RAM, 128GB Storage) I Extra upto Rs.1000 off on Exchange",
+        "brand":"OnePlus",
+        "image":"./images/mobiles/prod1.jpg",
+        "price":29999,
+        "ratings":2128,
+        "features":[
+          "Camera: Sony IMX 766 50MP+8MP+2MP AI Triple Camera with 4K@30FPS|1080p video at 30/60 fps | 32MP Front camera with 1080p video at 30/60 fps | Super Slow Motion: 1080p video at 120 fps, 720p video at 240 fps | Time-Lapse: 1080p 120fps;720p 240fps",
+          "Chipset: MediaTek Dimensity 1200-AI - The octa-core Dimensity 1200-AI features one of the fastest smartphone CPUs ever: the 3GHz Arm Cortex-A78 provides the most immediate response, with up to 22% faster CPU performance while also being 25% more power-efficient versus the previous generation",
+          "Display: 6.43-inch, 90Hz Fluid AMOLED display | Resolution: 2400 x 1080 pixels | 410 PPI | Aspect Ratio: 20:9 | Support sRGB, Display P3",
+          "Memory, Storage & SIM: 8GB RAM | 128GB internal memory on UFS 3.1 storage system.",
+          "Connectivity: Dual SIM (nano + nano) | Currently supports dual 5G SIM Cards",
+          "Operating System: OxygenOS 11.3 operating system based on Android 11",
+          "Battery: Dual Cell 4500mAH lithium-ion battery",
+          "In-display fingerprint sensor",
+          "2 Years of software updates and 3 years of Android security patches",
+          "Main camera features: Ultra Clear 50MP Photography, AI Photo Enhancement presets, AI Video Enhancement, Nightscape Ultra, Auto HDR, Portrait Mode, Pro-Mode, Ultra-Wide Mode. Front camera features – Dual View Video, Group Shot 2.0, Face Unlock, HDR, Screen Flash"
+        ]
+      },
+      {
+        "desc":"OnePlus Nord 2 5G (Gray Sierra, 8GB RAM, 128GB Storage) I Extra upto Rs.1000 off on Exchange",
+        "brand":"OnePlus",
+        "image":"./images/mobiles/prod2.jpg",
+        "price":29999,
+        "ratings":1799,
+        "features":[
+          "Camera: Sony IMX 766 50MP+8MP+2MP AI Triple Camera with 4K@30FPS|1080p video at 30/60 fps | 32MP Front camera with 1080p video at 30/60 fps | Super Slow Motion: 1080p video at 120 fps, 720p video at 240 fps | Time-Lapse: 1080p 120fps;720p 240fps",
+          "Chipset: MediaTek Dimensity 1200-AI - The octa-core Dimensity 1200-AI features one of the fastest smartphone CPUs ever: the 3GHz Arm Cortex-A78 provides the most immediate response, with up to 22% faster CPU performance while also being 25% more power-efficient versus the previous generation",
+          "Display: 6.43-inch, 90Hz Fluid AMOLED display | Resolution: 2400 x 1080 pixels | 410 PPI | Aspect Ratio: 20:9 | Support sRGB, Display P3",
+          "Memory, Storage & SIM: 8GB RAM | 128GB internal memory on UFS 3.1 storage system.",
+          "Connectivity: Dual SIM (nano + nano) | Currently supports dual 5G SIM Cards",
+          "Operating System: OxygenOS 11.3 operating system based on Android 11",
+          "Battery: Dual Cell 4500mAH lithium-ion battery",
+          "In-display fingerprint sensor",
+          "2 Years of software updates and 3 years of Android security patches",
+          "Main camera features: Ultra Clear 50MP Photography, AI Photo Enhancement presets, AI Video Enhancement, Nightscape Ultra, Auto HDR, Portrait Mode, Pro-Mode, Ultra-Wide Mode. Front camera features – Dual View Video, Group Shot 2.0, Face Unlock, HDR, Screen Flash"
+        ]
+      },
+      {
+        "desc":"Redmi Note 10 (Aqua Green, 4GB RAM, 64GB Storage) -Amoled Dot Display | 48MP Sony Sensor IMX582 | Snapdragon 678 Processor",
+        "brand":"Redmi",
+        "image":"./images/mobiles/prod3.jpg",
+        "price":12999,
+        "ratings":72852,
+        "features":[
+          "Display: FHD+ (1080x2400) AMOLED Dot display; 16.33 centimeters (6.43 inch); 20:9 aspect ratio",
+          "Camera: 48 MP Quad Rear camera with 8MP Ultra-wide, 2MP Macro and Portrait lens| 13 MP Front camera",
+          "Battery: 5000 mAh large battery with 33W fast charger in-box and Type-C connectivity",
+          "Processor: Qualcomm Snapdragon 678 with Kryo 460 Octa-core; 11nm process; Up to 2.2GHz clock speed",
+          "Memory, Storage & SIM: 4GB RAM | 64GB UFS 2.2 storage expandable up to 512GB with dedicated SD card slot | Dual SIM (nano+nano) dual standby (4G+4G)"
+        ]
+      },
+      {
+        "desc":"Redmi 9A (Nature Green, 2GB RAM, 32GB Storage) | 2GHz Octa-core Helio G25 Processor | 5000 mAh Battery",
+        "brand":"Redmi",
+        "image":"./images/mobiles/prod4.jpg",
+        "price":6999,
+        "ratings":69874,
+        "features":[
+          "Country Of Origin - India",
+          "13MP rear camera with AI portrait, AI scene recognition, HDR, pro mode | 5MP front camera. Hybrid Sim Slot : Yes",
+          "16.58 centimeters (6.53 inch) HD+ multi-touch capacitive touchscreen with 1600 x 720 pixels resolution, 268 ppi pixel density and 20:9 aspect ratio",
+          "Memory, Storage & SIM: 2GB RAM, 32GB internal memory expandable up to 512GB | Dual SIM (nano+nano) + Dedicated SD card slot",
+          "Android v10 operating system with upto 2.0GHz clock speed Mediatek Helio G25 octa core processor",
+          "5000mAH lithium-polymer large battery with 10W wired charger in-box",
+          "1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+          "Box also includes: Power adapter, USB cable, sim eject tool, warranty card and user guide"
+        ]
+      },
+      {
+        "desc":"Redmi 9 (Carbon Black, 4GB RAM, 64GB Storage) | 2.3GHz Mediatek Helio G35 Octa core Processor",
+        "brand":"Redmi",
+        "image":"./images/mobiles/prod5.jpg",
+        "price":8999,
+        "ratings":67282,
+        "features":[
+          "13+2MP Rear camera with AI Portrait, AI scene recognition, HDR, Pro mode | 5MP front facing camera",
+          "16.58 centimeters (6.53-inch) HD+ multi-touch capacitive touchscreen with 1600 x 720 pixels resolution, 268 ppi pixel density, 20:9 aspect ratio",
+          "Memory, Storage & SIM: 4GB RAM | 64GB storage expandable up to 512GB| Dual SIM with dual standby (4G+4G)",
+          "Android v10 operating system with 2.3GHz Mediatek Helio G35 octa core processor",
+          "5000mAH lithium-polymer battery with 10W wired charger in-box",
+          "1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+          "Box also includes: Power adapter, USB cable, SIM eject tool, Warranty card, User guide"
+        ]
+      },
+      {
+        "desc":"Samsung Galaxy M31s (Mirage Blue, 6GB RAM, 128GB Storage) 6 Months Free Screen Replacement for Prime",
+        "brand":"Samsung",
+        "image":"./images/mobiles/prod6.jpg",
+        "price":15499,
+        "ratings":79126,
+        "features":[
+          "Quad camera setup - 64MP (F1.8) main camera + 12MP (F2.2) ultra wide camera + 5MP (F2.4) depth camera + 5MP (F2.4) macro camera | 32MP (F2.2) front camera",
+          "16.4 centimeters (6.5-inch) super Amoled - Infinity-O display, FHD+ capacitive multi-touch touchscreen with 1080 x 2400 pixels resolution, 407 ppi pixel density and Contrast Ratio: 78960:1",
+          "Memory, Storage & SIM: 6GB RAM, 128GB internal memory expandable up to 512GB | Dual SIM (nano+nano) dual-standby (4G+4G)",
+          "Android v10.0 operating system with 1.7GHz+2.3GHz Exynos 9611 octa core processor",
+          "6000mAH lithium-ion battery with 5x fast charge | 25W Type-C fast charger in the box",
+          "1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+          "Box also includes: Travel adapter, USB Type-C to Type-C Cable, ejection pin and user manual",
+          "Fast face unlock and fingerprint sensor | Dual SIM (nano+nano) with dual standby and dual VoLTE, Dedicated Sim slot"
+        ]
+      },
+      {
+        "desc":"OnePlus Nord CE 5G (Charcoal Ink, 6GB RAM, 128GB Storage)",
+        "brand":"OnePlus",
+        "image":"./images/mobiles/prod7.jpg",
+        "price":22999,
+        "ratings":19059,
+        "features":[
+          "64MP+8MP+2MP triple rear camera with 1080p video at 30/60 fps, 4k 30 fps | 16MP front camera with 1080p video at 30/60 fps.",
+          "6.43-inch, 90Hz fluid AMOLED display with 2400 x 1080 pixels resolution | 410ppi",
+          "Memory, Storage & SIM: 6GB RAM | 128GB internal memory on UFS 2.1 storage system.",
+          "Dual SIM (nano + nano) | OnePlus Nord CE currently supports dual 4G SIM Cards or a single 5G SIM + 4G SIM.",
+          "Chipset: Qualcomm Snapdragon 750G 5G mobile platform with an octa-core processor, Kryo 570 CPU (20% improvement from predecessor), and an Adreno 619 GPU (10% improved graphics performance from predecessor).",
+          "OnePlus Nord CE 5G, Warp Charge 30T power adapter, Warp Type-C cable (Supports USB 2.0), Phone case, Screen protector (pre-applied), SIM tray ejector, Welcome letter, Brand sticker, Red Cable Club Membership card, Quick start guide, Safety information and warranty card, Highest SAR value & Plastic recycling card",
+          "Alexa Hands-Free capable: Download the Alexa app to use Alexa hands-free. Play music, make calls, hear news, open apps, navigate, and more, all using just your voice, while on-the-go."
+        ]
+      },
+      {
+        "desc":"Samsung Galaxy M12 (Black,4GB RAM, 64GB Storage) 6000 mAh with 8nm Processor | True 48 MP Quad Camera | 90Hz Refresh Rate",
+        "brand":"Samsung",
+        "image":"./images/mobiles/prod8.jpg",
+        "price":10999,
+        "ratings":35063,
+        "features":[
+          "48MP+5MP+2MP+2MP Quad camera setup- True 48MP (F 2.0) main camera + 5MP (F2.2) Ultra wide camera+ 2MP (F2.4) depth camera + 2MP (2.4) Macro Camera| 8MP (F2.2) front came",
+          "6000mAH lithium-ion battery, 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+          "Android 11, v11.0 operating system,One UI 3.1, with 8nm Power Efficient Exynos850 (Octa Core 2.0GH",
+          "16.55 centimeters (6.5-inch) HD+ TFT LCD - infinity v-cut display,90Hz screen refresh rate, HD+ resolution with 720 x 1600 pixels resolution, 269 PPI with 16M color",
+          "Memory, Storage & SIM: 4GB RAM | 64GB internal memory expandable up to 1TB| Dual SIM (nano+nano) dual-standby (4G+4"
+        ]
+      },
+      {
+        "desc":"Samsung Galaxy M32 (Light Blue, 4GB RAM, 64GB Storage) 6 Months Free Screen Replacement for Prime",
+        "brand":"Samsung",
+        "image":"./images/mobiles/prod9.jpg",
+        "price":14999,
+        "ratings":1930,
+        "features":[
+          "Segment Best 16.21 centimeters (6.4-inch) Super AMOLED - Infinity U-cut display, FHD+ resolution with 90Hz Refresh rate, 800 Nits High Brightness Mode, protected by Gorilla Glass 5",
+          "Versatile 64MP+8MP+2MP+2MP Quad camera setup-64MP (F 1.8) main camera + 8MP (F2.2) Ultra wide camera+ 2MP (F2.4) depth camera + 2MP (2.4) Macro Camera| 20MP (F2.2) front camera",
+          "Monster 6000 mAh Battery | Memory, Storage & SIM: 4GB RAM | 64GB internal memory expandable up to 1TB| SIM 1 + SIM 2 + MicroSD",
+          "Android v11.0, One UI 3.1 operating system with MediaTek Helio G80 Octa Core Processor 2GHz,1.8GHz",
+          "6000mAH lithium-ion battery, 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase"
+        ]
+      },
+      {
+        "desc":"Samsung Galaxy M51 (Celestial Black, 6GB RAM, 128GB Storage) 6 Months Free Screen Replacement for Prime",
+        "brand":"Samsung",
+        "image":"./images/mobiles/prod10.jpg",
+        "price":19999,
+        "ratings":67300,
+        "features":[
+          "Quad camera setup - 64MP (F1.8) main camera + 12MP (F2.2) ultra wide camera + 5MP (F2.4) depth camera + 5MP (F2.4) macro camera and 32MP (F2.2) front camera",
+          "16.95 cm (6.7-inch) sAMOLED Plus - Infinity-O display, FHD+ capacitive touchscreen with 1080 x 2400 pixels resolution, Contrast Ratio: 78960:1",
+          "Memory, Storage & SIM: 6GB RAM, 128GB internal memory expandable up to 512GB | Dedicated Memory slot",
+          "Android v10.0 operating system with 2.2GHz+1.8GHz Qualcomm | SD730G octa core processor",
+          "7000mAH lithium-ion battery | 25W USB Type-C to C fast charger in the box",
+          "Fast face unlock and Side Fingerprint sensor | Dual SIM (nano+nano) with dual standby and dual VoLTE | 3.5 mm headphone jack",
+          "1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+          "Box also includes: Travel adapter, USB Type-C to C, ejection pin and user manual"
+        ]
+      },
+      {
+        "desc":"OnePlus 9 Pro 5G (Morning Mist, 8GB RAM, 128GB Storage) I Extra upto Rs.7000 off on Exchange",
+        "brand":"OnePlus",
+        "image":"./images/mobiles/prod11.jpg",
+        "price":64990,
+        "ratings":3785,
+        "features":[
+          "Rear Quad Camera Co-Developed by Hasselblad, 48 MP Main camera, 50 MP Ultra Wide Angle Camera with Sensor size of 1/1.56'', 8 MP Telepoto Lens, 2 MP Monochorme Lens,16 MP Front Camera",
+          "Qualcomm Snapdragon 888 Processor with Adreno 660 GPU",
+          "6.7 Inches Fluid AMOLED Display with 120Hz refresh rate with Latest LTPO technology",
+          "OnePlus Oxygen OS based on Andriod 11",
+          "Comes with 4500 mAh Battery with 65W Wired Charging and 50W Wireless Charging capability"
+        ]
+      },
+      {
+        "desc":"Mi 10i 5G (Midnight Black, 6GB RAM, 128GB Storage) - 108MP Quad Camera | Snapdragon 750G Processor",
+        "brand":"Mi",
+        "image":"./images/mobiles/prod12.jpg",
+        "price":21999,
+        "ratings":21926,
+        "features":[
+          "Camera: 108 MP Quad Rear camera with Ultra-wide and Macro mode",
+          "Processor: Octa-core Snapdragon 750G with 8nm process and support for next generation 5G Network",
+          "Display: 16.9 centimeters (6.67-inch) FHD+ Full screen dot display with AdaptiveSync 120Hz refresh rate",
+          "Battery: 4820 mAh large battery with 33W fast charger in-box and Type-C connectivity",
+          "Memory, Storage & SIM: 6GB RAM | 128GB storage expandable up to 512GB with microSD card slot Warranty: 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase"
+        ]
+      },
+      {
+        "desc":"Mi 11X Pro 5G (Cosmic Black, 8GB RAM, 128GB Storage) | Snapdragon 888 | 108MP Camera",
+        "brand":"Mi",
+        "image":"./images/mobiles/prod13.jpg",
+        "price":39999,
+        "ratings":613,
+        "features":[
+          "Qualcomm Snapdragon 888 5G with Kryo 680 Octa-core; 5nm process; Up to 2.84GHz clock speed; Liquidcool technology",
+          "Camera: 108 MP Triple Rear camera with 8MP Ultra-wide and 5MP Super macro | 20 MP Front camera",
+          "Display: 120Hz high refresh rate FHD+ (1080x2400) AMOLED Dot display; 16.9 centimeters (6.67 inch); 2.76mm ultra tiny punch hole; HDR 10+ support; 360Hz touch sampling, MEMC technology",
+          "Battery: 4520 mAH large battery with 33W fast charger in-box and Type-C connectivity",
+          "Memory, Storage & SIM: 8GB LPDDR5 RAM | 128GB UFS 3.1 storage"
+        ]
+      },
+      {
+        "desc":"New Apple iPhone 12 Pro Max (128GB) - Pacific Blue",
+        "brand":"Apple",
+        "image":"./images/mobiles/prod14.jpg",
+        "price":124700,
+        "ratings":892,
+        "features":[
+          "6.7-inch (17 cm diagonal) Super Retina XDR display",
+          "Ceramic Shield, tougher than any smartphone glass",
+          "A14 Bionic chip, the fastest chip ever in a smartphone",
+          "Pro camera system with 12MP Ultra Wide, Wide and Telephoto cameras; 5x optical zoom range; Night mode, Deep Fusion, Smart HDR 3, Apple ProRAW, 4K Dolby Vision HDR recording",
+          "LiDAR Scanner for improved AR experiences, Night mode portraits",
+          "12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+          "Industry-leading IP68 water resistance"
+        ]
+      },
+      {
+        "desc":"iQOO Z3 5G (Cyber Blue, 8GB RAM, 128GB Storage) | India's First SD 768G 5G Processor | 55W FlashCharge | Upto 9 Months No Cost EMI | 6 Months Free Screen Replacement",
+        "brand":"iQOO",
+        "image":"./images/mobiles/prod15.jpg",
+        "price":20990,
+        "ratings":6464,
+        "features":[
+          "Qualcomm Snapdragon 768G 5G processor, 7nm chip and octa-core processor.",
+          "55W FlashCharge can charge the 4400mAh battery up to 50% in just 19 minutes* and a full charge in just 50 minutes*",
+          "64MP AF Main Camera with f/1.79 Aperture supported by GW3 sensor loaded with professional features like 4K videos @ 60FPS, EFB Autofocus Tracking and more. The device also comes with a 16MP Front Camera",
+          "120Hz Refresh Rate | 180Hz Touch Sampling Rate",
+          "Five-layer liquid cooling system can reduce the core temperature by 10 degrees"
+        ]
+      },
+      {
+        "desc":"Mi 11X 5G Cosmic Black 6GB RAM 128GB ROM | SD 870 | DisplayMate A+ rated E4 AMOLED",
+        "brand":"Mi",
+        "image":"./images/mobiles/prod16.jpg",
+        "price":27999,
+        "ratings":3378,
+        "features":[
+          "Processor: Qualcomm Snapdragon 870 5G with Kryo 585 Octa-core; 7nm process; Up to 3.2GHz clock speed; Liquidcool technology",
+          "Camera: 48 MP Triple Rear camera with 8MP Ultra-wide and 5MP Super macro | 20 MP Front camera",
+          "Display: 120Hz high refresh rate FHD+ (1080x2400) AMOLED Dot display; 16.9 centimeters (6.67 inch); 2.76mm ultra tiny punch hole; HDR 10+ support; 360Hz touch sampling, MEMC technology",
+          "Battery: 4520 mAH large battery with 33W fast charger in-box and Type-C connectivity",
+          "Hands-Free access to Alexa: Alexa on your phone lets you make phone calls, open apps, control smart home devices, access the library of Alexa skills, and more using just your voice while on-the-go. Download the Alexa app and complete hands-free setup to get started. Just ask - and Alexa will respond instantly"
+        ]
+      },
+      {
+        "desc":"iQOO 7 5G (Storm Black, 8GB RAM, 128GB Storage) | 3GB Extended RAM | Upto 12 Months No Cost EMI | 6 Months Free Screen Replacement",
+        "brand":"iQOO",
+        "image":"./images/mobiles/prod17.jpg",
+        "price":31990,
+        "ratings":5583,
+        "features":[
+          "Qualcomm Snapdragon 870 5G Mobile Platform",
+          "Intelligent Display Chip with Enhanced Frame Rate & All HDR",
+          "48MP OIS Main camera with Sony IMX598 sensor",
+          "66W FlashCharge with 4400mAh Battery",
+          "16.82cm (6.62) 120Hz AMOLED Display with 1300 peak brightness along with 300Hz Touch Sampling Rate",
+          "6000mm² Graphite Layer Full Coverage Liquid Cooling Technology"
+        ]
+      },
+      {
+        "desc":"OnePlus 9R 5G (Carbon Black, 8GB RAM, 128GB Storage) I Extra upto Rs.5000 off on Exchange",
+        "brand":"OnePlus",
+        "image":"./images/mobiles/prod18.jpg",
+        "price":39999,
+        "ratings":12614,
+        "features":[
+          "Qualcomm Snapdragon 870 5G with upgraded Qualcomm Kryo 585 CPU that performs intense mobile computing at up to 3.2 GHz and also comes with an ultra-fast Qualcomm Adreno 650 GPU for superb on-device experiences",
+          "Loaded with Quad rear camera module that features a 48 MP Main camera, 16 MP Ultra Wide angle Camera, 5 MP Macro camera and a 2 MP Monochrome camera. The device also comes with a 16 MP front Camera",
+          "6.55 Inches Fluid AMOLED display with 120 Hz of Refresh rate",
+          "A Powerful 4500 mAh with 65 Watt Warp charging capability",
+          "Oxygen OS based on Andriod 11",
+          "Hands-Free access to Alexa: Alexa on your phone lets you make phone calls, open apps, control smart home devices, access the library of Alexa skills, and more using just your voice while on-the-go. Download the Alexa app and complete hands-free setup to get started. Just ask - and Alexa will respond instantly"
+        ]
+      },
+      {
+        "desc":"iQOO 7 Legend 5G (Legendary Track Design, 12GB RAM, 256GB Storage) | 3GB Extended RAM | Upto 12 Months No Cost EMI | 6 Months Free Screen Replacement",
+        "brand":"iQOO",
+        "image":"./images/mobiles/prod19.jpg",
+        "price":43990,
+        "ratings":2375,
+        "features":[
+          "Qualcomm Snapdragon 888 5G Mobile Platform with Adreno 660 GPU",
+          "48MP OIS Main camera with Sony IMX598 sensor",
+          "16.82cm (6.62) 120Hz AMOLED Display with 1300 peak brightness along with 300Hz Touch Sampling Rate",
+          "Powerful 66W FlashCharge Technology ",
+          "4096mm² Largest Vapor Chamber Liquid Cooling System"
+        ]
+      },
+      {
+        "desc":"Samsung Galaxy S21 Ultra(Phantom Silver, 12GB RAM, 256GB Storage) without Offers",
+        "brand":"Samsung",
+        "image":"./images/mobiles/prod20.jpg",
+        "price":101099,
+        "ratings":540,
+        "features":[
+          "Quad rear camera setup- Main Camera 108MP + Ultra Wide 12MP Dual Pixel Camera + Tele1 3X 10MP Dual Pixel Camera + Tele2 10x 10MP Dual pixel camera | 40MP front faciing camera",
+          "(6.8-inch) Dynamic AMOLED 2X Display, WQHD+ resolution with 3200 X 1440 pixels resolution, 515 PPI with 16M colours",
+          "12GB RAM | 256GB internal Storage, memory expandable up to 1TB| Dual SIM (nano+nano) dual-standby (4G+4G)",
+          "Android Pie v10.0 operating system with 2.9GHz Exynos 2100 octa core processor",
+          "5000mAH lithium-ion battery, 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase"
+        ]
+      }
+    ]
+  }

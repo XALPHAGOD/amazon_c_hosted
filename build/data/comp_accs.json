@@ -1,0 +1,484 @@
+{
+    "Data":[
+      {
+        "id":"comp_mice",
+        "label":"Mice",
+        "data":[
+          {
+            "desc":"Zebronics Zeb -Dash Wireless Optical Mouse(Black)",
+            "brand":"Zebronics",
+            "image":"./images/accessories/prod1.jpg",
+            "price":292,
+            "ratings":8987,
+            "features":[
+              "Dash is a USB wireless mouse with 4 buttons.",
+              "It has high precision with 1600 DPI and it’s comes with easy plug and play mechanism ; Lift Distance: 10 mm ; Response Time: 2 ms ; Effective Range: 20 m ; Power Consumption: 8.2 W",
+              "Resolution 800/1200/1600dpi",
+              "Button strokes life 3 million cycles",
+              "2.4GHz stable wireless connection, Advanced optical sensor technology",
+              "NOTE : USB receiver will be available inside the product , if its not available outside with the product . Nano receiver, plug & play, Receiver can be hidden in the mouse jack",
+              "Ergonomic, comfortable design, Works on most surfaces, Smart energy-saving automatically. The product does not have On/Off switch button, but it has a special feature smart energy saving feature , where when mouse not in use it won't drain the battery."
+            ]
+          },
+          {
+            "desc":"Dell Multi-Device Wireless Mouse MS5320W - 3yrs Adv. Exc Serv",
+            "brand":"Dell",
+            "image":"./images/accessories/prod2.jpg",
+            "price":2350,
+            "ratings":74,
+            "features":[
+              "Wireless Mouse",
+              "(1) Mode of pairing: RF 2.4 GHz, (2) Mode of pairing: Bluetooth 5.0 (3) Toggle button (4) Scroll wheel (with Tilt) (5) Programmable buttons (6) On/off switch",
+              "Compatibility : 2.4Ghz - Windows 7, Windows 8.1 and 10; Mac; Linux (Red Hat Enterprise 8.0 /Ubuntu 18.4); Chrome; and Android OS",
+              "Bluetooth : - Windows 8.1 and 10; Mac; Linux (Red Hat Enterprise 8.0 /Ubuntu 18.4); Chrome; and Android OS",
+              "Dell Peripheral Manager : Windows 7, Windows 8.1, 10 or later"
+            ]
+          },
+          {
+            "desc":"Lenovo 300 Wired Plug & Play USB Mouse, High Resolution 1600 DPI Optical Sensor, 3-Button Design with clickable Scroll Wheel, Ambidextrous, Ergonomic Mouse for Comfortable All-Day Grip (GX30M39704)",
+            "brand":"Lenovo",
+            "image":"./images/accessories/prod3.jpg",
+            "price":249,
+            "ratings":20819,
+            "features":[
+              "A high-resolution, 1600 dpi optical sensor ensures you’ll be smoothly gliding from window-to-window. Cable Length/Type : 1.80 m",
+              "Comfortable use for long hours with great performance",
+              "USB A type connectivity with laptop, desktop or CPU",
+              "Great Aesthetics, Usage ideal for office, education sectors, designing, basic gaming etc",
+              "Warranty: 1 Year",
+              "Wired mouse with 1600dpi optical sensor",
+              "Note : In case of Wireless mouse, the USB receiver will be provided inside or along with the mouse"
+            ]
+          },
+          {
+            "desc":"Logitech M337 Wireless Mouse, Bluetooth, 1000 DPI Laser Grade Optical Sensor, 10-Month Battery Life, PC/Mac/Laptop - Black",
+            "brand":"Logitech",
+            "image":"./images/accessories/prod4.jpg",
+            "price":1145,
+            "ratings":5552,
+            "features":[
+              "Use with virtually any Bluetooth enabled computer, laptop or tablet: Connects to Mac, Windows, Chrome OS and Android.",
+              "Slip the comfort M337 mouse into your laptop bag or pocket so you have it anywhere you need it.",
+              "Comfortable curved shape for right or left hand use with rubber grips, keeps your hand feeling comfortable, even after long hours of use.",
+              "10 month battery life helps you go longer between battery changes (battery life may vary based on user and computing conditions).",
+              "Navigation button and tilt wheel put control in the palm of your hand.",
+              "Use with virtually any Bluetooth enabled computer, laptop or tablet: Connects to Mac, Windows, Chrome OS and Android.",
+              "Slip this compact, portable mouse into your bag or pocket so you have the freedom to work anywhere."
+            ]
+          },
+          {
+            "desc":"Logitech M221 Wireless Mouse, Silent Buttons, 2.4 GHz with USB Mini Receiver, 1000 DPI Optical Tracking, 18-Month Battery Life, Ambidextrous PC/Mac/Laptop - Charcoal Grey",
+            "brand":"Logitech",
+            "image":"./images/accessories/prod5.jpg",
+            "price":845,
+            "ratings":15099,
+            "features":[
+              "Ultra-quiet mouse with 90% reduced click sound and same click feel eliminates noise and distractions for you and others around you",
+              "Comfortable mobile shape is small enough to toss in a bag and an ambidextrous design guides either hand into a natural position",
+              "USB Receiver is provided with the mouse and can be found in the small rectangular slot next to the battery compartment. Flip the mouse and slide the battery cover off to locate the receiver",
+              "Mouse automatically connects to your computer via a tiny wireless Receiver that Plugs into your computer’s USB port",
+              "Reliable, long range wireless mouse works up to 33 feet away from your computer (Actual wireless range may vary based on use, settings, and environmental conditions)",
+              "18-Month battery life and auto sleep help you go longer between battery changes (battery life may vary based on user and computing conditions)",
+              "Ultra-quiet mouse with 90% reduced click sound and same click feel eliminates noise and distractions for you and others around you"
+            ]
+          },
+          {
+            "desc":"Logitech M235 Wireless Mouse, 2.4 GHz with USB Unifying Receiver, 1000 DPI Optical Tracking, 12 Month Life Battery, Compatible with Windows, Mac, Chromebook/PC/Laptop - Black/Grey",
+            "brand":"Logitech",
+            "image":"./images/accessories/prod6.jpg",
+            "price":699,
+            "ratings":36264,
+            "features":[
+              "Logitech M235 wireless mouse: Its advanced 2.4 GHz wireless technology and optical tracking offer you freedom of movement and high reliability",
+              "Long battery life: Can last for a whole year without having to change the batteries",
+              "Hand-friendly ergonomic design: Soft rubber grip and the smooth scroll wheel of this computer mouse gives more comfort and freedom of movement, Compatibility : Windows 7,8,10 or later, macOS 10.5 or later, Chrome OS, Certified Works With Chromebook 8",
+              "USB receiver: Remove the bottom cover of the wireless mouse to access the USB receiver of the device",
+              "Versatile: Compatible with Windows, Mac and other devices",
+              "Works with Chromebook: This product is tested and certified as works with Chromebook, which means it meets Google’s compatibility standards and works seamlessly with your Chromebook"
+            ]
+          },
+          {
+            "desc":"HP Z3700 Wireless Mouse Silver",
+            "brand":"HP",
+            "image":"./images/accessories/prod7.jpg",
+            "price":1049,
+            "ratings":12124,
+            "features":[
+              "The sleek design complements your favorite HP devices, and fits comfortably anywhere",
+              "Note : In case of Wireless mouse, the USB receiver will be provided inside or along with the mouse",
+              "With up to 16 months of life on a single AA battery, this mouse was designed to push the limits , The 2.4GHz wireless connection reliably keeps you hooked up",
+              "Compatible across all notebooks and desktops platform with Windows Vista/7/8/10 and USB port available",
+              "1200 dpi optical sensor: Move your mouse with accuracy and speed.",
+              "Manufacturer Detail: HP India Sales pvt limited, 24 Salarpuria Arena, Hosur main road, Adugodi , Bangalore -560030.",
+              "Importer Details: HP India Sales pvt limited, 24 Salarpuria Arena, Hosur main road, Adugodi , Bangalore -560030."
+            ]
+          }
+        ]
+      },
+      {
+        "id":"comp_keyboards",
+        "label":"Keyboards",
+        "data":[
+          {
+            "desc":"Zebronics USB Keyboard with Rupee Key, USB Interface and Retractable Stand - K20",
+            "brand":"Zebronics",
+            "image":"./images/accessories/prod16.jpg",
+            "price":319,
+            "ratings":747,
+            "features":[
+              "USB keyboard",
+              "Retractable Stand",
+              "UV coated keys"
+            ]
+          },
+          {
+            "desc":"Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key",
+            "brand":"Zebronics",
+            "image":"./images/accessories/prod17.jpg",
+            "price":299,
+            "ratings":17821,
+            "features":[
+              "Superior Built Quality: The keyboard has a superior Quality and is built to last.",
+              "Modular Design: The modular design on the keyboard makes customizations a possibilty.",
+              "USB interface: The keyboard comes with an USB interface making it compatible with most of the PCs",
+              "UV Printed Keycaps: The keycaps are UV printed helping that inscriptions on the kepscaps to last long",
+              "Plug & play: Just connect the USB connector to your PC and you are ready to go. Compatible with Windows XP/Vista/7/8/10"
+            ]
+          },
+          {
+            "desc":"Logitech K480 Wireless Multi-Device Keyboard for Windows, Apple iOS android or Chrome, Wireless Bluetooth, Compact Space-Saving Design, PC/Mac/Laptop/Smartphone/Tablet- Black",
+            "brand":"Logitech",
+            "image":"./images/accessories/prod18.jpg",
+            "price":2195,
+            "ratings":14800,
+            "features":[
+              "WIRELESS BLUETOOTH MULTIDEVICE KEYBOARD:A wireless desk keyboard for your computer, tablet and smartphone",
+              "EASY-SWITCH DIAL:Just turn the dial of the Logitech K480 keyboard to switch typing between 3 connected Bluetooth wireless devices",
+              "A FAMILIAR KEYBOARD LAYOUT: You will find all the shortcut keys you use the most, whether you’re typing on a PC or Mac computer or an Android smartphone or tablet or iPhone or iPad",
+              "INTEGRATED CRADLE: A cradle to hold your phone or tablet at just the right angle for you to read while you type. Fits most phones and tablets up to 10.5 mm (0.4 inches) thick and 258 mm (10 inches) wide",
+              "COMPATIBLE DEVICES - PC: Windows 7, Windows 8, Windows 10 ; Mac: Mac OS X or later ; Chrome OS ; iPad or iPhone: iOS 5 or later ; Android tablet or smartphone: Android 3.2 or later",
+              "IN THE BOX: Keyboard,2 AAA batteries (pre-installed),User documentation"
+            ]
+          },
+          {
+            "desc":"Logitech K230 Compact Wireless Keyboard for Windows, 2.4GHz Wireless with USB Unifying Receiver, Space-Saving Design, 2-Year Battery Life, PC/Laptop- Black",
+            "brand":"Logitech",
+            "image":"./images/accessories/prod19.jpg",
+            "price":899,
+            "ratings":10290,
+            "features":[
+              "WIRELESS KEYBOARD: Reliable connection up to 10 m . Virtually no delays or dropouts-even in the busiest wireless environments-thanks to the mini Logitech USB Unifying receiver with Advanced 2.4 GHz wireless connectivity. Small enough to stay in your laptop and lets you add up to five compatible devices such as a wireless gaming mouse",
+              "2 YEAR BATTERY LIFE: With the extended battery life and auto-sleep, you can write Facebook updates, emails and Yelp reviews for years without the hassle of changing batteries",
+              "SAVE SPACE WITHOUT MISSING A THING:The small compact wireless keyboard is about 36 Percent smaller than standard keyboards but still has all the standard keys-so doing the things you love is as easy as ever. Can be used with wired, wireless, Bluetooth or gaming mice",
+              "PERSONIZABLE: Want to make this sleek little keyboard a little more 'you'? The battery door on top of the keyboard doubles as a fun design element with light grey, pink and blue options you can swap to suit your mood or décor",
+              "SYSTEM COMPATIBILITY: Windows-based PC,Windows XP, Windows Vista, Windows 7, Windows 8, Windows 10,USB port",
+              "IN THE BOX:Keyboard,Nano-receiver, 2 AAA batteries, User documentation"
+            ]
+          },
+          {
+            "desc":"Logitech MK850 Multi-Device Wireless Keyboard and Mouse Combo, 2.4GHz Wireless & Bluetooth, Curved Keyframe , 12 Programmable Keys, 3-Year Battery Life, PC/Mac",
+            "brand":"Logitech",
+            "image":"./images/accessories/prod20.jpg",
+            "price":6095,
+            "ratings":2053,
+            "features":[
+              "Custom Productivity Experience : The MK850 wireless combo gives you increased productivity thanks to Logitech software OPTIONS, allowing you to assign 12 keys and buttons to your favourite shortcuts. Sensor resolution: 1000 dpi",
+              "Built for Comfort : Designed for all-day typing with oversized, cushioned palm rest, familiar deep-profile keys, curved key frame and adjustable tilt legs; two AAA batteries with a 3-year lifespan",
+              "Precision Mouse Control : Contoured mouse's soft rubber surface fits ideally into your palm, hyper-fast scrolling wheel to fly through webpages/documents. Works with Windows, Mac, ChromeOS, Android",
+              "Multiple Device Compatibility : Swapping between PCs, laptops and Macs is simple; type and switch seamlessly between tablets, computers, phone; Pair up to 3 individual devices via Bluetooth/USB receiver"
+            ]
+          },
+          {
+            "desc":"Logitech K400 Plus Wireless Livingroom Keyboard with Touchpad for Home Theatre PC Connected to TV, Customizable Multi-Media Keys, Windows, Android, Laptop- Black",
+            "brand":"Logitech",
+            "image":"./images/accessories/prod21.jpg",
+            "price":3298,
+            "ratings":22874,
+            "features":[
+              "Media-Friendly : The K400 plus wireless touchpad keyboard gives you integrated, comfortable, laid-back control of your PC-to-TV entertainment, eliminating the clutter of a separate keyboard and mouse - all from the comfort of your couch",
+              "Plug-and-Play : Works straight out the box, just plug the Unifying mini-receiver into a USB port and the wireless touchpad keyboard is ready to go - then adjust controls using the Logitech Options Software to save your preferred settings",
+              "Power-Packed : Built with laid-back control in mind, this wireless keyboard with touchpad has a reliable and long battery life of up to 18 months, including an on-off button to help it go even further",
+              "Wireless Freedom : Designed for seamless comfort and control, this tv-keyboard boasts a range of up to 10 m (33 feet) wireless connectivity ensuring uninterrupted use, with quiet keys and a large touchpad for easy navigation",
+              "Reliable Durability : The Logitech wireless keyboard with touchpad comes with a 2-Year manufacturer warranty, ensuring worry-free user experience and long-lasting performance",
+              "In the box : Wireless Touch Keyboard, Unifying receiver, 2 AA batteries (pre-installed),User documentation"
+            ]
+          },
+          {
+            "desc":"Logitech MK470 Slim Wireless Combo - Off White",
+            "brand":"Logitech",
+            "image":"./images/accessories/prod22.jpg",
+            "price":5140,
+            "ratings":631,
+            "features":[
+              "Compact modern designed keyboard features low-profile scissor keys, number pad and an optimized layout for Windows",
+              "Portable ambidextrous 3 button mouse with high precision optical tracking silent rubber wheel",
+              "Whisper quiet keyboard and lab-tested, noise-reduced mouse means an ultra quiet work experience for you and those around you",
+              "Simple plug-and-play USB nano receiver offers a strong reliable 2. 4 GHz wireless connection with 10 meters (33ft) of range**Wireless range may vary based on environmental and computing conditions",
+              "Auto-sleep feature saves battery life, allowing for 36 months of keyboard use and 18 months of mouse use****Battery life may vary based on user and computing conditions"
+            ]
+          }
+        ]
+      },
+      {
+        "id":"extensions",
+        "label":"Extensions",
+        "data":[
+          {
+            "desc":"Bajaj 4-Way Spike and Surge Guard with 2m Wire (White)",
+            "brand":"Bajaj",
+            "image":"./images/accessories/prod23.jpg",
+            "price":388,
+            "ratings":2556,
+            "features":[
+              "Inbuilt fuse protects connected devices from damage incase of sudden surge",
+              "Fire retardant cable",
+              "Spike guard is capable of carrying 6A current and 1500VA load safely",
+              "Warranty: 6 months on product",
+              "Operating Voltage: 220 volts",
+              "Includes: 4 way spike and surge guard with 2m wire"
+            ]
+          },
+          {
+            "desc":"Portronics Power Plate 4 with 4 Power Sockets + 1 USB Port Power Converter with Extension I Cord 1.5 Meter I 1500 Watts Max (Black)",
+            "brand":"Portronics",
+            "image":"./images/accessories/prod24.jpg",
+            "price":600,
+            "ratings":262,
+            "features":[
+              "[4-SOCKET POWER ADAPTOR] : The power adaptor comes with 4 Universal sockets, ideal for powering all types of high-voltage devices. It also comes with a USB Output socket to charge your phone, tablets, etc.",
+              "[MULTIPURPOSE] : Power multiple, high-voltage devices at once, including mobile phones, music systems, TV Sets, VCD/DVD Players, home appliances, computers, etc. Place it easily in your home or office, and plug-in scanners, printers, etc., conveniently. Comes with 4 Multiplug sockets for different types of adaptors.",
+              "[SPIKE GUARD] : When plugging in multiple appliances, there is a risk of overvoltage issues. With in-built Spike guard technology, it distributes the voltage which prevents voltage spikes and protects your devices when charging. Equipped with fuse protection, it comes with an in-built High power MOV for protection.",
+              "[STURDY DESIGN] : Designed to protect, the power adaptor is constructed of durable material, and comes with a safe, Single switch. With a maximum output of 1500W, it has a 6Amp current rating. It also comes with a durable 2M cord."
+            ]
+          },
+          {
+            "desc":"Honeywell 4 Out + 2 USB Surge Protector with Master Switch",
+            "brand":"Honeywell",
+            "image":"./images/accessories/prod25.jpg",
+            "price":1439,
+            "ratings":1760,
+            "features":[
+              "4 Outlet surge protector with 2 USB (5V/2.1A).",
+              "Surge Protection 525 Joules/15,000 Amps.",
+              "2 Mtr power cord (BIS Certified).",
+              "Automatic overload protection with reset switch.",
+              "LED indicator for protection.",
+              "Less than 1 nano second response time for surge protection.",
+              "Fire resistant material."
+            ]
+          },
+          {
+            "desc":"Portronics Power BUN, a Surge Protector with 2 AC Outlets and 3 USB Charging Ports Plus a Phone Docking Station, 1.5 Meter Power Cord, LED Indicator, White",
+            "brand":"Portronics",
+            "image":"./images/accessories/prod26.jpg",
+            "price":799,
+            "ratings":135,
+            "features":[
+              "[3 USB PORTS & 2 AC OUTLETS]- Charge three USB 5V/2.4A gadgets like smartphones, powerbanks, headphones, & two 220V/10A AC powered devices like laptops simultaneously",
+              "[UNIVERSAL USAGE]- Suitable for home & office use where desk space is limited and you want to avoid clutter. It has ample power ratings of 2500W ( 2 x 220V/10A surge protectors and 5Vx2.4A USB outputs)",
+              "[SAFE, RELIABLE, HIGH QUALITY MATERIAL]- BIS certified with Grade Body, Surge Protection, over voltage & Over Current Protection, Strong ABS Plastic is shock resistant. Comes with a convenient 1.5 meter long AC charging cord",
+              "[CONVENIENT & COMPACT]- Easily put your phone / tab on the built-in docking station when charging and use the device simultaneously. It’s Lightweight & Fits in palm of your hand",
+              "[COMPATIBILITY]- Designed for Indian 220V wall socket electrical standards. You can fast-charge any USB Chargeable Devices like Smartphones, Tabs, Powerbanks, laptop, printer, Camera and headset etc"
+            ]
+          },
+          {
+            "desc":"Honeywell Platinum 5 Out + 2 USB Surge Protector with Master Switch (White)",
+            "brand":"Honeywell",
+            "image":"./images/accessories/prod27.jpg",
+            "price":2298,
+            "ratings":1760,
+            "features":[
+              "Fireproof MOV.",
+              "Surge Protection of 918 Joules/ 36000 Amps.",
+              "Piano glossy white finish.",
+              "Built-in 5 – line surge protection with LED light with 2 USB ports.",
+              "Maximum spike voltage: 6KV.",
+              "Response time: < 1 Nano Second.",
+              "Protected and Ground Indicator."
+            ]
+          },
+          {
+            "desc":"Portronics Power Plate 4 with 4 Power Sockets + 1 USB Port Power Converter with Extension I Cord 1.5 Meter I 1500 Watts Max (White)",
+            "brand":"Honeywell",
+            "image":"./images/accessories/prod28.jpg",
+            "price":499,
+            "ratings":262,
+            "features":[
+              "[4-SOCKET POWER ADAPTOR] : The power adaptor comes with 4 Universal sockets, ideal for powering all types of high-voltage devices. It also comes with a USB Output socket to charge your phone, tablets, etc.",
+              "[MULTIPURPOSE] : Power multiple, high-voltage devices at once, including mobile phones, music systems, TV Sets, VCD/DVD Players, home appliances, computers, etc. Place it easily in your home or office, and plug-in scanners, printers, etc., conveniently. Comes with 4 Multiplug sockets for different types of adaptors",
+              "[SPIKE GUARD] : When plugging in multiple appliances, there is a risk of overvoltage issues. With in-built Spike guard technology, it distributes the voltage which prevents voltage spikes and protects your devices when charging. Equipped with fuse protection, it comes with an in-built High power MOV for protection.",
+              "[STURDY DESIGN] : Designed to protect, the power adaptor is constructed of durable material, and comes with a safe, Single switch. With a maximum output of 1500W, it has a 6Amp current rating. It also comes with a durable 2M cord."
+            ]
+          },
+          {
+            "desc":"Honeywell 8 Out Surge Protector with Master Switch",
+            "brand":"Honeywell",
+            "image":"./images/accessories/prod29.jpg",
+            "price":1249,
+            "ratings":1760,
+            "features":[
+              "Surge Protection 700 Joules/20,000 Amps.",
+              "2 Mtr power cord (BIS Certified).",
+              "Automatic overload protection with reset switch.",
+              "LED indicator for protection.",
+              "Less than 1 nano second response time for surge protection.",
+              "Fire resistant material.",
+              "Universal sockets are spaced to accommodate multiple plugs of different sizes at the same time."
+            ]
+          }
+        ]
+      },
+      {
+        "id":"cables",
+        "label":"Cables",
+        "data":[
+          {
+            "desc":"boAt Rugged v3 Extra Tough Unbreakable Braided Micro USB Cable 1.5 Meter (Black)",
+            "brand":"boAt",
+            "image":"./images/accessories/prod30.jpg",
+            "price":299,
+            "ratings":"50375",
+            "features":[
+              "The boAt rugged cable features our special toughest polyethylene braided jacket and this unique jacket provides greater protection than anything else you have seen in its class. Round Cable",
+              "Extra tough polyethylene terephthalate cable skin ensures 10000 plus bend lifespan, stress and stretch resistance",
+              "The boAt rugged Micro USB cable is compatible with most android smartphones, windows phone, tablets, PC peripherals and other micro USB compatible devices",
+              "2.4A rapid charge, fast data transmission and rapid speed to sync your device at the speed up to 480mbps",
+              "boAt rugged micro USB cable offers a perfect 1.5 meters in length, optimized for an easy use for your comfort at home or office"
+            ]
+          },
+          {
+            "desc":"boAt Micro USB 55 Tangle-Free Cable with 3A Fast Charging & 480mbps Data Transmission(Black)",
+            "brand":"boAt",
+            "image":"./images/accessories/prod31.jpg",
+            "price":199,
+            "ratings":1403,
+            "features":[
+              "Micro USB 55 cable offers universal compatibility as it is compatible with most android smartphones, tablets, PC peripherals, Bluetooth speakers, power banks, game consoles & all micro-USB enabled devices",
+              "It ensures high speed transmission and charging by offering 3A fast charging and data transmissions with rapid sync at 480 Mbps",
+              "The braided skin makes it durable and invincible against external damage so you can have an absolute hassle-free & tangle free experience",
+              "Its durable PVC housing and the flexible design makes it last 6 times longer than other cables",
+              "The compact and smooth Aluminium connector fits most cases seamlessly and resists corrosion for signal purity",
+              "USB cable offers a perfect 1.5 meters in length for smooth & hassle-free user experience for superior charging & data transfer tasks"
+            ]
+          },
+          {
+            "desc":"Mi Micro USB Cable (120cm, USB Type A, Black)",
+            "brand":"Mi",
+            "image":"./images/accessories/prod32.jpg",
+            "price":229,
+            "ratings":23279,
+            "features":[
+              "120cm Long Cable",
+              "Connector One: USB Type-A. Compatible Devices: Mobile, Tablet",
+              "Cable Speed: 480 Mbps",
+              "6 months warranty"
+            ]
+          },
+          {
+            "desc":"Ambrane Unbreakable 3A Fast Charging Braided Micro USB Cable for Android Devices – 1.5 Meter (RCM15, Black)",
+            "brand":"Ambrane",
+            "image":"./images/accessories/prod33.jpg",
+            "price":199,
+            "ratings":13638,
+            "features":[
+              "Universal Compatibility – It is compatible with all Micro USB enabled devices, be it an android smartphone, tablet, PC peripheral or any other micro USB compatible device",
+              "Unbreakable – Made of special braided outer with rugged interior bindings, it is ultra-durable cable that won’t be affected by daily rough usage",
+              "Ideal Length – It has ideal length of 1.5 meters which is neither too short like your typical 1meter cable or too long like a 2meters cable",
+              "Supports maximum 3A fast charging and 480 Mbps data transfer speed"
+            ]
+          }
+        ]
+      },
+      {
+        "id":"webcams",
+        "label":"Webcams",
+        "data":[
+          {
+            "desc":"Logitech C922 Pro Stream Webcam, HD 1080p/30fps or HD 720p/60fps Hyperfast Streaming, Stereo Audio, HD Light Correction, Autofocus, for YouTube, Twitch, XSplit, PC/Mac/Laptop/MacBook/Tablet - Black",
+            "brand":"Logitech",
+            "image":"./images/accessories/prod34.jpg",
+            "price":10740,
+            "ratings":743,
+            "features":[
+              "Web Camera specifically designed and optimized for Professional quality video streaming on social gaming and entertainment sites like Twitch and YouTube",
+              "Stream and record vibrant, true-to-life HD 1080P video at 30 frames per second or 720P at 60Fps. Diagonal field of view (dFoV): 78°",
+              "Background replacement technology (powered by personify) allows you to integrate your live image and any background Scene, right onto your stream (only works with Windows 7 and above)",
+              "Full HD glass lens and premium autofocus deliver razor-sharp, clear video in consistent high Definition while two Built-in mics capture your voice in rich Stereo Audio",
+              "Record clear videos even in dim or poorly backlit settings with automatic light Correction"
+            ]
+          },
+          {
+            "desc":"Logitech C505 HD Webcam - 720p HD External USB Camera for Desktop or Laptop with Long-Range Microphone, Compatible with PC or Mac - Grey",
+            "brand":"Logitech",
+            "image":"./images/accessories/prod35.jpg",
+            "price":4098,
+            "ratings":10371,
+            "features":[
+              "Logitech C505 delivers crisp video quality with widescreen HD 720p / 30 fps resolution, 60 degree diagonal field of view, fixed focus, and auto light correction that adjusts to personal meeting spaces",
+              "The webcam with microphone features a single, omnidirectional mic with noise-reduction technology and is engineered to support clear conversation up to 3 meters away, even in busy environments",
+              "C505 basic webcam offers a range of versatile mounting possibilities with its extra-long USB-A cable and universal clip; position it securely on a laptop, desktop, or elsewhere up to 2 m (7 ft) away"
+            ]
+          },
+          {
+            "desc":"Logitech C920 HD Pro Webcam, Full HD 1080p/30fps Video Calling, Clear Stereo Audio, HD Light Correction, Works with Skype, Zoom, FaceTime, Hangouts, PC/Mac/Laptop/MacBook/Tablet - Black",
+            "brand":"Logitech",
+            "image":"./images/accessories/prod36.jpg",
+            "price":11124,
+            "ratings":22437,
+            "features":[
+              "Full-HD Video Calling : This streaming webcam operates in full-HD 1080p video at 30-fps, whether you're on Skype or streaming yourself gaming in a strong HD 720p; It covers the full action; Connects to your device via USB",
+              "Crisp Video Quality : Using this video calling device over wifi allows professionals and others to record rich content that is fluid, professional-looking and polished - such as demonstrations or showcasing your passions",
+              "Full-HD Glass Lens : Users of this full HD streaming camera that captures a wide 78 degree field of view will be seen in high clarity and detail - the five-element glass lens with premium auto-focus capability shoots and records video that is crystal-clear",
+              "Brighter Images : Equipped with automatic HD autofocus and light correction, this streaming webcam fine-tunes to your lighting conditions to produce bright, well-contrasted images - even if you're in a dim setting",
+              "Dual Microphones : The two-microphone system on this HD webcam - one on each side of the lens - captures natural stereo audio while filtering out background noise"
+            ]
+          },
+          {
+            "desc":"Logitech C270 HD Webcam, HD 720p/30fps, Widescreen HD Video Calling, HD Light Correction, Noise-Reducing Mic, for Skype, FaceTime, Hangouts, WebEx, PC/Mac/Laptop/MacBook/Tablet - Black",
+            "brand":"Logitech",
+            "image":"./images/accessories/prod37.jpg",
+            "price":2249,
+            "ratings":10371,
+            "features":[
+              "Full HD widescreen video calling: Logitech C270 let you make widescreen video calls in HD 720p at 30fps. The lense with 60-degree field of view covers all of the action",
+              "HD lighting adjustment: Automatically improves the warmth and balance of your image for whatever setting you are in, so you look your best, even in dim environments",
+              "Built-in noise-reducing mic: Enjoy clear conversation even in busy surroundings and streaming over wifi with noise reducing mic",
+              "Universal clip: Attaches securely to your screen or works as a stand on a shelf or desk, the clip mounts at different angles to bring your friends and family all the details around you",
+              "Ideal for laptop or tablet: Compatible with Windows 7 or later, macOS 10.10 or later, Chrome OS, USB - A port",
+              "Full HD widescreen video calling: Logitech C270 let you make widescreen video calls in HD 720p at 30fps. The lense with 60-degree field of view covers all of the action.",
+              "HD lighting adjustment: Automatically improves the warmth and balance of your image for whatever setting you are in, so you look your best, even in dim environments"
+            ]
+          },
+          {
+            "desc":"Lenovo™ 300 FHD Webcam with Full Stereo Dual Built-in mics | FHD 1080P 2.1 Megapixel CMOS Camera |Ultra-Wide 95° Lens | 360° Rotation | Flexible Mount (GXC1B34793)",
+            "brand":"Lenovo",
+            "image":"./images/accessories/prod38.jpg",
+            "price":2799,
+            "ratings":3042,
+            "features":[
+              "Full HD Video Calls with Stereo Audio: The Lenovo 300 FHD Webcam is powered by a Full HD 1080P 2.1 Megapixel CMOS camera that allows your friends, family, and colleagues to see you as clear as day, even when they are worlds away. With full stereo dual-mics that are perfect for conferencing or long-distance video calls, they’ll be able to hear you loud and clear, every time.",
+              "High resolution FHD 1080P Webcam with dual mics: The innovative FHD 1080P camera delivers perfect high-resolution video and lets you set the scene with its ultra-wide 95° lens. Video alone is not enough, though, which is why two built-in mics capture crisp stereo audio from all directions.",
+              "Easy Plug-and-Play Setup: Simply unpack and unfold the camera when you want to do a call, and plug the USB 2.0 cable into any Windows or Mac device. Within seconds, you will be ready to go live on your favorite conferencing or streaming software, with no drivers necessary.",
+              "Supported OS: Windows 7, Windows 8 or Windows 10, Mac OS X 10.14 or Higher, Ubuntu 20.04, Chromebook 85.0.4181.3 | Resolution: 1920 x 1080 (MJPG) @ 30 Frame Rate (default) | Focus: Fixed Focus | Field of View: 95° | Rating: 5V 150mA | Clip: Tripod-ready Universal Clip Fits Laptops, Desktops and other LCD Monitors",
+              "Mount Anywhere & Everywhere: With a 1.8 m cable, tripod support, and a flexible mounting mechanism, you can attach your webcam virtually anywhere. Even difficult angles work, thanks to the wide-angle, tilt controls, and 360° rotation. Just mount it, tilt it, and open the privacy shutter"
+            ]
+          },
+          {
+            "desc":"Zebronics Zeb-Ultimate Pro (Full HD) 1080p/30fps Webcam with 5P Lens, Built-in Mic, Auto White Balance, Night Vision, Manual Switch for LED (Black)",
+            "brand":"Zebronics",
+            "image":"./images/accessories/prod39.jpg",
+            "price":1784,
+            "ratings":3023,
+            "features":[
+              "Zeb-Ultimate Pro is a full HD web camera with a quality 5P lens with a resolution of 1920x 1080.",
+              "The web camera comes with a built-in microphone, an auto white balance, night vision feature, and a manual switch for LED.",
+              "Interface USB image sensor CMOS lens 5P quality lens",
+              "Video resolution 1920 x 1080 (30 fps) cable length 1.58 meter",
+              "High resolution webcam built-in microphone automatic white balance night vision manual switch for LED",
+              "It comes with USB interface and built-in mic for vedio calls."
+            ]
+          }
+        ]
+      }
+    ]
+  }
